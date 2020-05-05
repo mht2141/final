@@ -28,7 +28,7 @@ def attractions():
 
 @app.route("/foodinjapan")
 def food():
-    return render_template("foodinjapanc.html") 
+    return render_template("foodinjapan.html") 
 
 
 #start the server
